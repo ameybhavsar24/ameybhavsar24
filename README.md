@@ -1,17 +1,11 @@
 ### Hi there 👋
 
-🔭 I’m currently working on **building fullstack applications using MERN**.
-
-🌱 I’m currently learning **Django and NLP**.
-
-👯 I’m looking to collaborate on **Frontend and Node.js projects**.
-
-🤔 I’m looking for help with **[ww-bot](https://github.com/ameybhavsar24/ww-bot)**.
-
-💬 Ask me about **design, Javascript and chess**.
-
-📫 How to reach me: [Mail me](mailto:iamamey24+ghr@gmail.com) or use [Twitter](https://twitter.com/ameybhavsar24).
-
+🔭 I’m currently working on **building fullstack applications using MERN**.  
+🌱 I’m currently learning **Django and NLP**.  
+👯 I’m looking to collaborate on **Frontend and Node.js projects**.  
+🤔 I’m looking for help with **[ww-bot](https://github.com/ameybhavsar24/ww-bot)**.  
+💬 Ask me about **design, Javascript and chess**.  
+📫 How to reach me: [Mail me](mailto:iamamey24+ghr@gmail.com) or use [Twitter](https://twitter.com/ameybhavsar24).  
 ⚡ Fun fact: **When I'm not programming, you can find me reading 📖 or sleeping 💤 !**
 
 
