@@ -1,4 +1,10 @@
-### Hi there 👋
+<!--
+If you're reading the source code, you really are a passionate coder. Let's work on some projects together.
+Drop a mail to iamamey24+ghr@gmail.com with title="From The Source"
+-->
+<h3 align="center">Hello there :wave:<br/>I'm Amey.</h3>
+<h4 align="center">A CS student at the University of Mumbai and a enthusiastic open source contributer.</h4>
+<h1 align="center"></h1>
 
 🔭 I’m currently working on **building fullstack applications using MERN**.  
 🌱 I’m currently learning **Django and NLP**.  
