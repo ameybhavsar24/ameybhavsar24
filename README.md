@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### See my github portfolio at https://ameybhavsar24.github.io
-![Amey Bhavsar's TOp Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameybhavsar24&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=bfbfbf&bg_color=151515) ![Amey Bhavsar's github stats](https://github-readme-stats.vercel.app/api?username=ameybhavsar24&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=bfbfbf&bg_color=151515&line_height=19)
+![Amey Bhavsar's TOp Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameybhavsar24&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=bfbfbf&bg_color=151515) ![Amey Bhavsar's github stats](https://github-readme-stats.vercel.app/api?username=ameybhavsar24&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=bfbfbf&bg_color=151515&line_height=20)
 <!--
 **ameybhavsar24/ameybhavsar24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
