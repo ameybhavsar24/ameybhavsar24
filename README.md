@@ -15,6 +15,7 @@ Drop a mail to iamamey24+ghr@gmail.com with title="From The Source"
 📫 How to reach me: [Mail me](mailto:iamamey24+ghr@gmail.com) or use [Twitter](https://twitter.com/ameybhavsar24).  
 ⚡ Fun fact: **When I'm not programming, you can find me reading 📖 or sleeping 💤 !**
 
+<p><img src="https://komarev.com/ghpvc/?username=ameybhavsar24&color=red" /></p>
 
 ![Amey Bhavsar's TOp Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameybhavsar24&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=bfbfbf&bg_color=151515)
 
